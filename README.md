@@ -73,7 +73,7 @@ I didn't test the model on public ICDAR table recognition competition dataset, I
 
 Here are some example:
 
-## images
+## Images
 
 ![](images/split_input.jpg)
 
