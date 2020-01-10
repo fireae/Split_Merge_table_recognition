@@ -1,0 +1,5 @@
+torch>=0.4.0
+numpy
+cv2
+PIL
+argparse
