@@ -7,7 +7,7 @@ An implementation of Table Recognition Model Split&Merge in Pytorch.  Split&Merg
 **Clone the repo:**
 
 ```
-git clone 
+git clone https://github.com/solitaire2015/Split_Merge_table_recognition.git
 pip install -r requirements.txt
 ```
 
@@ -75,15 +75,15 @@ Here are some example:
 
 ## images
 
-![](images\split_input.jpg)
+![](images/split_input.jpg)
 
 Fig1. Original image
 
-![](images\split_output.jpg)
+![](images/split_output.jpg)
 
 Fig2. Split result
 
-![merge_example](images\merge_example.jpg)
+![](images/merge_example.jpg)
 
 Fig3. one Merge result.
 
