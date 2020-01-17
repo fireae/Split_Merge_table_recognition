@@ -58,6 +58,10 @@ python split/train.py --img_dir your image dir -- json_dir your json file -- sav
 ``````
 python merge/train.py --img_dir your image dir -- json_dir your json file -- saved_dir where you want to save model --val_img_dir your validation image dir -- val_json your validation json file
 ``````
+Pre-trained models:	
+* Merge: https://pan.baidu.com/s/112ElDK-MSMQ50CTKpkPCZQ code:rto4
+
+* Split: https://pan.baidu.com/s/1rSO6o23WbKV6jXo2DRrQcw code:lu23
 
 <u>Run the predict script:</u>
 
