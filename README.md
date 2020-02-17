@@ -45,6 +45,8 @@ The ground truth of Merge is loaded from a `.json` file, here is the structure:
 
 where the `h_matrix` indicates where the cells should be merged with it's right neighborhood, `v_matrix` indicates where the cells should be merged with it's bottom neighborhood, check more detail from the original paper, `h_matrix` and `v_matrix` are `R`  and `D` in that paper.
 
+There are two scripts in `data_util` folder to generate training data.
+
 **Training**
 
 <u>Train Split model :</u>
